@@ -60,6 +60,15 @@ EDA involved exploring the Global Superstore data to answer key questions, such 
 
 ### Data Analysis
 
+#### Summary Page
+The dashboard shows information about profit and sales based on different factors, such as segment, market, and year. 
+It also displays the top customers, as well as profit and loss products. 
+Finally, the global map shows sales by region, which facilitates comparison with sales by market.
+
+<img width="1002" alt="Image_DashB_PO" src="https://github.com/user-attachments/assets/0bd89925-ebda-4cac-8738-b5b83de733a7">
+
+### Results/Findings
+
 
 
 
