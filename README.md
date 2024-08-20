@@ -62,12 +62,53 @@ EDA involved exploring the Global Superstore data to answer key questions, such 
 
 #### Summary Page
 The dashboard shows information about profit and sales based on different factors, such as segment, market, and year. 
-It also displays the top customers, as well as profit and loss products. 
-Finally, the global map shows sales by region, which facilitates comparison with sales by market.
+It also displays the top customers, as well as profit and loss products. Finally, the global map shows sales by region, which facilitates comparison with sales by market.
 
 <img width="1002" alt="Image_DashB_PO" src="https://github.com/user-attachments/assets/0bd89925-ebda-4cac-8738-b5b83de733a7">
 
 ### Results/Findings
+
+- Total sales amount to approximately $12.6 million. The highest sales were recorded in 2015 with $4.3 million, while the lowest was in 2012 with $2.3 million.
+  Sales have increased each year, indicating a positive trend.
+
+- The total quantity of products sold is about 178,300. The Asian market has the highest total sales, followed by Europe, America, and others. However, by region, Europe shows the highest sales, followed by the American region. This indicates that while Asia leads in total market sales, specific European regions excel geographically. The company's largest segment is 'Consumer,' followed by 'Corporate' and 'Home Office.' Additionally, the quantity sold has increased each year, reflecting growing sales annually.
+  
+- The average delivery time for orders is about 4 days, which is reasonable and less than a week. This faster delivery helps improve customer satisfaction.
+  
+- Approximately 1,079 orders have been returned. Compared to the total number of orders across all markets and regions, this represents a small number of returns.
+  
+- Canon Image Copier’ is the most profitable product, followed by ‘Cisco Smart Phone.’ The top loss product is the ‘Cubify Cubex Double Head Printer,’ followed by the ‘Lexmark M Laser Printer.
+
+- Most of the top 10 customers are in the 'Consumer' segment, but the most profitable customer who buys the most is in the 'Corporate' segment.
+
+### Recommendations
+
+1. **Focus on Profitable Segments**: With the most profitable customer in the Corporate segment, the company should increase marketing efforts and tailor offerings for corporate clients. Focusing on these segments could include bulk purchase discounts, customized solutions, and enhanced after-sales support.
+
+2. **Optimize Consumer Segment Engagement**: Since most top customers are in the Consumer segment, maintaining and improving customer satisfaction and loyalty in this group should remain a priority. This might include personalized marketing, loyalty programs, or improved customer service.
+
+3. **Leverage High-Performing Products**: With "Canon Image Copier" and "Cisco Smart Phone" being top profit generators, the company should focus on promoting these products further. Expanding their product lines or bundling them with related items could boost sales even more.
+
+4. **Address Loss-Making Products**: The significant losses from products like "Cubify Cubex Double Head Printer" and "Lexmark M Laser Printer", etc. suggest a need to reevaluate these items. The company could consider phasing them out, renegotiating supplier terms, or improving product features to enhance profitability.
+
+5. **Improve Return Management**: Although returns are relatively low, the company should continue to monitor return reasons and reduce them where possible. This could involve improving product quality, refining the return policy, or enhancing customer support to prevent returns.
+
+6. **Enhance Sales in Key Regions**: While the Asian market has high sales, the European region outperforms geographically. The company could explore why Europe is leading and replicate successful strategies in other regions.
+
+7. **Maintain Fast Delivery Times**: The average delivery time of 4 days is reasonable. Continuing to optimize logistics to ensure fast delivery will likely increase customer satisfaction and repeat purchases.
+
+By focusing on these areas or recommendations, the company can strengthen its market position, improve profitability, and continue to grow in the coming years.
+
+### Limitations
+
+1. **Data Accuracy and Reliability**: The accuracy of the insights is dependent on the quality and correctness of the historical dataset. Any inaccuracies or inconsistencies in the data can lead to misleading conclusions in the analysis.
+
+2. **Lack of Statistical Validation**: The analysis presented in the Power BI dashboard might lack rigorous statistical validation. Without additional statistical analysis, such correlation or regression analysis, the findings may not be robust or generalizable.
+
+3. **Limited Context and Insights**: The dashboard may provide a snapshot of data but might not account for underlying factors or external variables influencing the results. Additional context or qualitative analysis might be needed to fully understand the reasons behind the trends and patterns observed.
+
+💻🖱️⌨️💻🖱️🖥️
+
 
 
 
