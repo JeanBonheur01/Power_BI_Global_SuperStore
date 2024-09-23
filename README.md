@@ -79,6 +79,7 @@ Please check the IPYNB file in the files section to see all the Python Pandas an
 ![Top_products](https://github.com/user-attachments/assets/88d3220e-480f-4f72-8965-bbf4d1eb8b99)
 
 - The top 6 Loss products:
+  
 ![Top 6 Loss_Product](https://github.com/user-attachments/assets/f30a0d34-5e47-4cb1-89c9-f9f7d842e363)
 
 ### Results/Findings
