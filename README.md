@@ -66,6 +66,21 @@ It also displays the top customers, as well as profit and loss products. Finally
 
 <img width="1002" alt="Image_DashB_PO" src="https://github.com/user-attachments/assets/0bd89925-ebda-4cac-8738-b5b83de733a7">
 
+#### Some interesting code and graphics from the Python analysis in Visual Studio Code.
+
+Please check the IPYNB file in the files section to see all the Python Pandas analyses.
+
+- The top 10 customers by profit:
+
+![Top 10_customers_profit](https://github.com/user-attachments/assets/257076f7-e5eb-4634-a408-0f4460288675)
+
+- The top 10 products by profit:
+
+![Top_products](https://github.com/user-attachments/assets/88d3220e-480f-4f72-8965-bbf4d1eb8b99)
+
+- The top 6 Loss products:
+![Top 6 Loss_Product](https://github.com/user-attachments/assets/f30a0d34-5e47-4cb1-89c9-f9f7d842e363)
+
 ### Results/Findings
 
 - Total sales amount to approximately $12.6 million. The highest sales were recorded in 2015 with $4.3 million, while the lowest was in 2012 with $2.3 million.
